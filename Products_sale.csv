@@ -1,0 +1,121 @@
+﻿ProductID,ProductName,Category,SubCategory,UnitPrice,UnitCost,Supplier
+P0001,Android Smartphone,Electronics,Mobile ,39530.00,26950.00,Apex Imports
+P0002,Feature Phone,Electronics,Mobile ,1110.00,850.00,Apex Imports
+P0003,Power Bank,Electronics,Mobile ,79110.00,55390.00,ValueLink Trading
+P0004,Wireless Earbuds,Electronics,Mobile ,81940.00,50320.00,ValueLink Trading
+P0005,Phone Charger,Electronics,Mobile ,50620.00,40460.00,Metro Supply Co.
+P0006,Wireless Mouse,Electronics,Computing,35520.00,28570.00,Metro Supply Co.
+P0007,Laptop Stand,Electronics,Computing,16520.00,12430.00,PakTrade Distributors
+P0008,USB-C Hub,Electronics,Computing,14530.00,9290.00,Metro Supply Co.
+P0009,Keyboard,Electronics,Computing,12440.00,6680.00,Prime Wholesale
+P0010,External SSD,Electronics,Computing,22390.00,14950.00,ValueLink Trading
+P0011,Bluetooth Speaker,Electronics,Accessories,9700.00,7540.00,ValueLink Trading
+P0012,Smart Watch,Electronics,Accessories,20370.00,15940.00,Eastern Merchants
+P0013,HDMI Cable,electronics,Accessories,13640.00,9620.00,Prime Wholesale
+P0014,Webcam,Electronics,Accessories,34130.00,26130.00,Metro Supply Co.
+P0015,Router,Electronics,Accessories,36210.00,25890.00,Metro Supply Co.
+P0016,Cotton T-Shirt,Fashion,Men Clothing,6340.00,3430.00,Prime Wholesale
+P0017,Casual Shirt,Fashion,Men Clothing,7980.00,4840.00,Apex Imports
+P0018,Jeans,Fashion,Men Clothing,11910.00,7540.00,Eastern Merchants
+P0019,Hoodie,Fashion,Men Clothing,4130.00,2790.00,Prime Wholesale
+P0020,Polo Shirt,Fashion,Men Clothing,11070.00,6710.00,Eastern Merchants
+P0021,Printed Kurti,Fashion,Women Clothing,11280.00,7380.00,Prime Wholesale
+P0022,Lawn Suit,Fashion,Women Clothing,10290.00,8410.00,Apex Imports
+P0023,Handbag,Fashion,Women Clothing,7360.00,4000.00,Eastern Merchants
+P0024,Scarf,Fashion,Women Clothing,10680.00,8540.00,Eastern Merchants
+P0025,Abaya,Fashion,Women Clothing,10530.00,7010.00,Eastern Merchants
+P0026,Sneakers,Fashion,Footwear,6230.00,4310.00,Prime Wholesale
+P0027,Sandals,Fashion,Footwear,5650.00,4220.00,PakTrade Distributors
+P0028,Formal Shoes,Fashion,Footwear,6670.00,4330.00,Metro Supply Co.
+P0029,Slippers,Fashion,Footwear,8180.00,4980.00,ValueLink Trading
+P0030,Running Shoes,Fashion,Footwear,4970.00,3260.00,Eastern Merchants
+P0031,Non-stick Pan,Home & Kitchen,Kitchenware,18590.00,12060.00,Eastern Merchants
+P0032,Water Bottle,Home & Kitchen,Kitchenware,16590.00,9620.00,PakTrade Distributors
+P0033,Food Container Set,Home & Kitchen,Kitchenware,30790.00,19310.00,Prime Wholesale
+P0034,Electric Kettle,Home & Kitchen,Kitchenware,32750.00,24490.00,Eastern Merchants
+P0035,Dinner Set,Home & Kitchen,Kitchenware,8600.00,6200.00,Metro Supply Co.
+P0036,Table Lamp,Home & Kitchen,Home Decor,8670.00,5550.00,Apex Imports
+P0037,Wall Clock,Home & Kitchen,Home Decor,34590.00,21030.00,Metro Supply Co.
+P0038,Cushion Cover,Home & Kitchen,Home Decor,20600.00,16190.00,Prime Wholesale
+P0039,Storage Basket,Home & Kitchen,Home Decor,10190.00,7050.00,Metro Supply Co.
+P0040,Bed Sheet Set,Home & Kitchen,Home Decor,9110.00,5560.00,ValueLink Trading
+P0041,Room Heater,Home & Kitchen,Appliances,23220.00,12710.00,Eastern Merchants
+P0042,Blender,Home & Kitchen,Appliances,17160.00,11930.00,ValueLink Trading
+P0043,Iron,Home & Kitchen,Appliances,6800.00,5020.00,Metro Supply Co.
+P0044,Ceiling Fan,Home & Kitchen,Appliances,31250.00,17490.00,PakTrade Distributors
+P0045,Vacuum Cleaner,Home & Kitchen,Appliances,4430.00,2700.00,Prime Wholesale
+P0046,Face Wash,Beauty,Skincare,7500.00,5120.00,Prime Wholesale
+P0047,Moisturizer,Beauty,Skincare,4990.00,2980.00,Prime Wholesale
+P0048,Sunscreen,Beauty,Skincare,1010.00,810.00,ValueLink Trading
+P0049,Serum,Beauty,Skincare,7670.00,5910.00,Metro Supply Co.
+P0050,Body Lotion,Beauty,Skincare,3860.00,2170.00,Apex Imports
+P0051,Lipstick,Beauty,Makeup,5240.00,4250.00,Apex Imports
+P0052,Mascara,Beauty,Makeup,1270.00,910.00,Prime Wholesale
+P0053,Foundation,Beauty,Makeup,6960.00,5550.00,ValueLink Trading
+P0054,Compact Powder,Beauty,Makeup,7610.00,4490.00,PakTrade Distributors
+P0055,Makeup Brush Set,Beauty,Makeup,7240.00,3900.00,Metro Supply Co.
+P0056,Shampoo,Beauty,Haircare,4390.00,2640.00,ValueLink Trading
+P0057,Conditioner,Beauty,Haircare,2190.00,1430.00,PakTrade Distributors
+P0058,Hair Oil,Beauty,Haircare,8810.00,7130.00,Metro Supply Co.
+P0059,Hair Dryer,Beauty,Haircare,5460.00,3210.00,Prime Wholesale
+P0060,Hair Straightener,Beauty,Haircare,6340.00,3780.00,Apex Imports
+P0061,Yoga Mat,Sports,Fitness,9440.00,6230.00,Prime Wholesale
+P0062,Dumbbell Pair,Sports,Fitness,8920.00,4930.00,PakTrade Distributors
+P0063,Resistance Bands,Sports,Fitness,15110.00,10240.00,Prime Wholesale
+P0064,Skipping Rope,Sports,Fitness,13760.00,9490.00,Apex Imports
+P0065,Gym Gloves,Sports,Fitness,14630.00,10760.00,PakTrade Distributors
+P0066,Camping Bottle,Sports,Outdoor,16790.00,12110.00,Prime Wholesale
+P0067,Football,Sports,Outdoor,4410.00,2770.00,ValueLink Trading
+P0068,Cricket Bat,Sports,Outdoor,3580.00,1990.00,PakTrade Distributors
+P0069,Badminton Racket,Sports,Outdoor,16880.00,12510.00,Eastern Merchants
+P0070,Sports Bag,Sports,Outdoor,4320.00,2930.00,ValueLink Trading
+P0071,Track Suit,Sports,Sportswear,17390.00,12840.00,ValueLink Trading
+P0072,Sports T-Shirt,Sports,Sportswear,9680.00,5530.00,Eastern Merchants
+P0073,Training Shorts,Sports,Sportswear,1480.00,980.00,Prime Wholesale
+P0074,Sports Socks,Sports,Sportswear,14310.00,9670.00,Eastern Merchants
+P0075,Compression Shirt,Sports,Sportswear,4790.00,3100.00, Apex Imports 
+P0076,Basmati Rice 5kg,Grocery,Pantry,3840.00,2650.00,Metro Supply Co.
+P0077,Cooking Oil 1L,Grocery,Pantry,2310.00,1600.00,ValueLink Trading
+P0078,Tea 450g,Grocery,Pantry,860.00,580.00,Prime Wholesale
+P0079,Sugar 1kg,Grocery,Pantry,890.00,480.00,Metro Supply Co.
+P0080,Flour 5kg,Grocery,Pantry,420.00,230.00,Metro Supply Co.
+P0081,Mineral Water Pack,Grocery,Beverages,3010.00,1620.00,Eastern Merchants
+P0082,Juice Pack,Grocery,Beverages,270.00,140.00,Apex Imports
+P0083,Instant Coffee,Grocery,Beverages,3320.00,1750.00,Metro Supply Co.
+P0084,Green Tea,Grocery,Beverages,2530.00,1500.00,Metro Supply Co.
+P0085,Soft Drink Pack,Grocery,Beverages,2080.00,1350.00,ValueLink Trading
+P0086,Dishwashing Liquid,Grocery,Household,2920.00,1950.00,ValueLink Trading
+P0087,Laundry Detergent,Grocery,Household,970.00,760.00,Metro Supply Co.
+P0088,Tissue Box,Grocery,Household,4080.00,2350.00,ValueLink Trading
+P0089,Floor Cleaner,Grocery,Household,4340.00,3020.00,Apex Imports
+P0090,Hand Wash,Grocery,Household,3840.00,2850.00,Apex Imports
+P0091,Android Smartphone Premium Pack,Electronics,Mobile ,37550.00,20870.00,Apex Imports
+P0092,Feature Phone Value Pack,Electronics,Mobile ,1150.00,630.00,Apex Imports
+P0093,Power Bank Deluxe Edition,Electronics,Mobile ,86570.00,46160.00,ValueLink Trading
+P0094,Wireless Earbuds Compact Model,Electronics,Mobile ,75710.00,54070.00,ValueLink Trading
+P0095,Phone Charger Family Size,Electronics,Mobile ,51930.00,28730.00,Metro Supply Co.
+P0096,Wireless Mouse Premium Pack,Electronics,Computing,37410.00,25080.00,Metro Supply Co.
+P0097,Laptop Stand Value Pack,Electronics,Computing,17980.00,11690.00,PakTrade Distributors
+P0098,USB-C Hub Deluxe Edition,Electronics,Computing,15680.00,9110.00,Metro Supply Co.
+P0099,Keyboard Compact Model,Electronics,Computing,14300.00,7710.00,Prime Wholesale
+P0100,External SSD Family Size,Electronics,Computing,22990.00,13500.00,ValueLink Trading
+P0101,Bluetooth Speaker Premium Pack,Electronics,Accessories,9640.00,7000.00,ValueLink Trading
+P0102,Smart Watch Value Pack,Electronics,Accessories,21410.00,,Eastern Merchants
+P0103,HDMI Cable Deluxe Edition,electronics,Accessories,16160.00,12400.00,Prime Wholesale
+P0104,Webcam Compact Model,Electronics,Accessories,30830.00,23220.00,Metro Supply Co.
+P0105,Router Family Size,Electronics,Accessories,39810.00,29030.00,Metro Supply Co.
+P0106,Cotton T-Shirt Premium Pack,Fashion,Men Clothing,5740.00,3780.00,Prime Wholesale
+P0107,Casual Shirt Value Pack,Fashion,Men Clothing,7710.00,4200.00,Apex Imports
+P0108,Jeans Deluxe Edition,Fashion,Men Clothing,13360.00,7230.00,Eastern Merchants
+P0109,Hoodie Compact Model,Fashion,Men Clothing,4920.00,2910.00,Prime Wholesale
+P0110,Polo Shirt Family Size,Fashion,Men Clothing,10300.00,6430.00,Eastern Merchants
+P0111,Printed Kurti Premium Pack,Fashion,Women Clothing,13530.00,8450.00,Prime Wholesale
+P0112,Lawn Suit Value Pack,Fashion,Women Clothing,12150.00,8290.00,Apex Imports
+P0113,Handbag Deluxe Edition,Fashion,Women Clothing,9000.00,6400.00,Eastern Merchants
+P0114,Scarf Compact Model,Fashion,Women Clothing,13100.00,8700.00,Eastern Merchants
+P0115,Abaya Family Size,Fashion,Women Clothing,9630.00,5950.00,Eastern Merchants
+P0116,Sneakers Premium Pack,Fashion,Footwear,6080.00,3260.00,Prime Wholesale
+P0117,Sandals Value Pack,Fashion,Footwear,6500.00,4590.00,PakTrade Distributors
+P0118,Formal Shoes Deluxe Edition,Fashion,Footwear,6840.00,4530.00,Metro Supply Co.
+P0119,Slippers Compact Model,Fashion,Footwear,10050.00,8230.00,ValueLink Trading
+P0120,Running Shoes Family Size,Fashion,Footwear,5420.00,4050.00,Eastern Merchants
